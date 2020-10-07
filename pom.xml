@@ -16,12 +16,12 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
          
-    <scm>
+    <!--<scm>
    <connection>scm:git:https://github.com/hanumantharao19/hello-world.git</connection>
    <developerConnection>scm:git:https://github.com:hanumantharao19/hello-world.git</developerConnection>
    <url>https://github.com/hanumantharao19/hello-world.git</url>
    <tag>HEAD</tag>
-    </scm>
+    </scm> -->
   
     
       <plugin>

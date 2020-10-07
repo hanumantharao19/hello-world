@@ -20,13 +20,7 @@
    <connection>scm:git:https://github.com/hanumantharao19/hello-world.git</connection>
    <developerConnection>scm:git:https://github.com:hanumantharao19/hello-world.git</developerConnection>
    <url>https://github.com/hanumantharao19/hello-world.git</url>
-</scm>
-
-
-  <modules>
-    <module>server</module>
-    <module>webapp</module>
-  </modules>hanumantharao19/hello-world
+    </scm>
   
     
       <plugin>

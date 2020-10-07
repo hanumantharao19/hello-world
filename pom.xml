@@ -15,12 +15,18 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
+         
+    <scm>
+   <connection>scm:git:git://github.com/hanumantharao19/hello-world.git</connection>
+   <developerConnection>scm:git:git@github.com:hanumantharao19/hello-world.git</developerConnection>
+   <url>https://github.com/hanumantharao19/hello-world</url>
+</scm>
+
 
   <modules>
     <module>server</module>
     <module>webapp</module>
-  </modules>
-
+  </modules>hanumantharao19/hello-world
   <distributionManagement>
     <site>
       <id>site-server</id>

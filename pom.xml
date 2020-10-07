@@ -28,8 +28,6 @@
     <module>webapp</module>
   </modules>hanumantharao19/hello-world
   
-
-  <build>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
